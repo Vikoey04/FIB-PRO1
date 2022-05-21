@@ -1,0 +1,9 @@
+numero n
+espais n-1      n X     espais n-1
+espais n-2 >= 0     n+2 X    espais n-2
+espais n-3 >=0      n+4 X    espais n-3
+n+6
+n+6
+n+6   numero de files és N
+
+repetir el mateix

@@ -1,0 +1,1 @@
+alias nc nedit-ncalias p1++ g++ -ansi -Wall -O2 -DNDEBUG -Wextra -Werror-Wno-uninitialized -Wno-sign-compare -Wshadow
