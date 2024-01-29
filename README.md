@@ -46,7 +46,7 @@ algorísmics i la construcció estructurada de programes.
 9. Algorismes fonamentals II
     - Altres algorismes importants: Hörner, producte ràpid, etc.
 
-## Jordi Soley
+## Personal
 
 - Exercicis Jutge (els resolts per mi) [(Link)](/exercicis-jutge/)
 
